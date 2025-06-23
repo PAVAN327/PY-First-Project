@@ -1,4 +1,6 @@
 # PY-First-Project
-This is my PY first project 
+Project Name : This is my PY first project 
 <br>
-second commit 
+Author: Pavan G
+<br>
+Third commit 
